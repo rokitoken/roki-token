@@ -1,8 +1,21 @@
 {
-  "chainId": 1,
-  "address": "0xaAd20edE0C38d0E9D690a07b2e8C0651b579b71E",
-  "name": "Roki",
-  "symbol": "ROKI",
-  "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/rokitoken/roki-token/main/logo.png"
+  "name": "Roki Token List",
+  "logoURI": "https://raw.githubusercontent.com/rokitoken/roki-token/main/logo.png",
+  "keywords": ["roki", "meme", "defi"],
+  "timestamp": "2026-02-16T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xaAd20edE0C38d0E9D690a07b2e8C0651b579b71E",
+      "name": "Roki",
+      "symbol": "ROKI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rokitoken/roki-token/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
